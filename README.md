@@ -1,4 +1,5 @@
-👋 Hi, I'm Yokeshwaran NS
+👋 **Hi, I'm Yokeshwaran NS**
+
 🚀 Software Engineer| Mobile App Developer
 
 I am a passionate Mobile Application Developer with 3.7+ years of experience, specializing in Flutter, React Native, and React.js. I have successfully built and deployed multiple cross-platform applications on the Play Store and App Store, integrating advanced features like state management (BLoC, GetX, Redux), Firebase, REST APIs, Google APIs, and payment gateways (Razorpay, PayU, Stripe).
