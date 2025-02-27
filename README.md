@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Hi, I'm Yokeshwaran NS
+🚀 Software Engineer| Mobile App Developer
 
-<!--
-**yokesh2404/yokesh2404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Mobile Application Developer with 3.7+ years of experience, specializing in Flutter, React Native, and React.js. I have successfully built and deployed multiple cross-platform applications on the Play Store and App Store, integrating advanced features like state management (BLoC, GetX, Redux), Firebase, REST APIs, Google APIs, and payment gateways (Razorpay, PayU, Stripe).
 
-Here are some ideas to get you started:
+💡 What I Do:
+✅ Mobile App Development (Flutter, React Native)
+✅ Web Development (React.js, Node.js, Express.js)
+✅ Backend Development (NestJS, MongoDB, PostgreSQL)
+✅ State Management (BLoC, GetX, Redux)
+✅ API Integration (REST, Firebase, Google APIs)
+✅ Payment Gateway Integration (Razorpay, PayU)
+✅ CI/CD & Agile Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tech Stack:
+Languages: Dart, JavaScript
+Frameworks & Libraries: Flutter, React Native, React.js, Node.js, Express.js, NestJS
+Databases: Firebase Firestore, MongoDB, PostgreSQL, SQLite
+Tools: Git, VS Code, Android Studio, Xcode
+Cloud Services: Firebase
+
+📫 Connect with Me:
+🌐 GitHub: github.com/yokesh2404
+💼 LinkedIn: linkedin.com/in/yokeshwaransj
+
+🚀 Open to collaborations! Let's build something amazing together.
