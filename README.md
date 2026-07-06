@@ -7,16 +7,16 @@ I am a passionate Mobile Application Developer with 4+ years of experience, spec
 💡 What I Do:
 ✅ Mobile App Development (Flutter, React Native)
 ✅ Web Development (React.js, Node.js, Express.js)
-✅ Backend Development (NestJS, MongoDB, PostgreSQL)
+✅ Backend Development ( MongoDB)
 ✅ State Management (BLoC, GetX, Redux)
 ✅ API Integration (REST, Firebase, Google APIs)
-✅ Payment Gateway Integration (Razorpay, PayU)
+✅ Payment Gateway Integration
 ✅ CI/CD & Agile Development
 
 🔧 Tech Stack:
 Languages: Dart, JavaScript
 Frameworks & Libraries: Flutter, React Native, React.js, Node.js, Express.js, NestJS
-Databases: Firebase Firestore, MongoDB, PostgreSQL, SQLite
+Databases: Firebase Firestore, MongoDB, SQLite
 Tools: Git, VS Code, Android Studio, Xcode
 Cloud Services: Firebase
 
